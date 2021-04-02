@@ -1,9 +1,9 @@
-		fr	es	el
+	en	fr	es	el
 twitterStatsErrorMessage	Please fill the required fields (＊)	Veuillez remplir les champs requis (＊)	Rellene los campos requeridos (＊)	Παρακαλώ συμπληρώστε τα απαιτούμενα πεδία (＊)
-twitter_sna_title	Facebook CSV analysis	Analyse Facebook CSV	El análisis Facebook CSV	Ανάλυση Facebook CSV
+twitter_sna_title	Instagram CSV analysis	Analyse Instagram CSV	El análisis Instagram CSV	Ανάλυση Instagram CSV
 twitter_sna_search	Keyword, URL or #	Mot clé, URL ou #	Palabra clave, URL o #	Λέξη-κλειδί, διεύθυνση URL ή #
 twitter_sna_not	Words to exclude in the query	Mots à exclure de la requête	Palabras a excluir en la consulta	Λέξεις για εξαίρεση στο ερώτημα
-twitter_sna_user	Posted by (Facebook account name)	Publié par (nom de compte Facebook)	Publicado por (nombre de la cuenta de Facebook)	Αναρτήθηκε από (όνομα του λογαριασμού στο Facebook)
+twitter_sna_user	Posted by (Instagram account name)	Publié par (nom de compte Instagram)	Publicado por (nombre de la cuenta de Instagram)	Αναρτήθηκε από (όνομα του λογαριασμού Instagram)
 twitter_sna_from_date	Since	Depuis	Desde	Από
 twitter_sna_until_date	Until	Jusqu'à	Hasta	Εως
 twitter_local_time	Local time	Heure locale	Hora local	Τοπική ώρα
@@ -43,7 +43,7 @@ lang_he	Hebrew	Hébreu	Hebreo	Εβραϊκά
 lang_ur	Urdu	Ourdou	Urdu	Ουρντού
 lang_th	Thai	Thaï	Tailandés	Ταϊλανδέζικα
 button_submit	Submit	Envoyer	Enviar	Υποβολή
-default_sna_error	Facebook analysis failed due to an unknown cause.	L'analyse de Facebook a été interrompue pour une raison inconnue.	El análisis de Facebook se ha interrumpido por una causa desconocida.	Η ανάλυση του Facebook απέτυχε λόγω άγνωστης αιτίας.
+default_sna_error	Instagram analysis failed due to an unknown cause.	L'analyse de Instagram a été interrompue pour une raison inconnue.	El análisis de Instagram se ha interrumpido por una causa desconocida.	Η ανάλυση του Instagram απέτυχε λόγω άγνωστης αιτίας.
 twitterSnaErrorMessage	An error occurred while processing posts	Une erreur est survenue lors du traitement de messages	Se ha producido un error durante el procesamiento de mensajes	Ένα σφάλμα κατά την επεξεργασία των μηνυμάτων
 top_users_pie_chart_title	Most active users	Utilisateurs les plus actifs	Usuarios más activos	Πιο ενεργοί χρήστες
 mention_cloud_chart_title	Most mentioned accounts	Compte les plus mentionnés	Usuarios más mencionados	Λογαριασμοί που έχουν αναφερθεί πιο πολύ
@@ -83,7 +83,7 @@ user_placeholder	user	utilisateur	usuario	χρήστης
 twittersna_counting_words	Counting Words	Comptage des mots	Contando palabras	Μέτρηση λέξεων
 twittersna_fetching_tweets	Fetching posts	Récupération des posts	Recuperando posts	Λήψη posts
 twittersna_building_graphs	Building graphs	Construction des graphes	Construyendo el gráfico	Δημιουργία γραφημάτων
-twittersna_result_submit_twitter_sna	Submit to Facebook SNA	Envoyer à Facebook SNA	Enviar a Facebook SNA	Υποβολή στο Facebook SNA
+twittersna_result_submit_twitter_sna	Submit to Instagram SNA	Envoyer à Instagram SNA	Enviar a Instagram SNA	Υποβολή στο Instagram SNA
 twittersna_result_view_graph	View graph	Voir le graphe	Ver el grafo	Προβολή γραφήματος
 twittersna_no_community	No community detected	Pas de communauté détectée	No se encontro comunidad	Δεν εντοπίστηκε κοινότητα
 twittersna_acd	Account Creation Date	Date de création du compte	Fecha de creación de la cuenta	Ημερομηνία δημιουργίας λογαριασμού
