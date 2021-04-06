@@ -60,7 +60,7 @@ bubble_chart_title	Bubble chart of top 100 most active accounts	Graphique des 10
 user_graph_title	User accounts graph	Graphe de comptes utilisateurs	Grafo de cuentas de usuarios	ράφημα λογαριασμών χρηστών
 export_graph_title	Export Interaction graph (gexf format)	Exporter un graphe des interactions au format Gexf	Exportar el grafo de interacciones en formato Gexf	Εξαγωγή γραφήματος αλληλεπίδρασης (μορφή gexf)
 heatmap_chart_title	Heatmap of posts distribution	Heatmap de distribution de messages	Heatmap de la distribución de mensajes	Θερμικός χάρτης της διανομής των δημοσιεύσεων
-elastic_url	Url	Url	Url	Σύνδεσμος
+elastic_url	URL	URL	URL	Σύνδεσμος
 elastic_count	Number	Nombre	Candidad	Αριθμός
 twittersna_result_username	Username	Nom d'utilisateur	Nombre de usuario	Όνομα χρήστη
 twittersna_result_date	Date	Date	Fecha	Ημερομηνία
@@ -72,7 +72,7 @@ twittersna_result_download	Download	Télécharger	Descargar	Λήψη
 twittersna_result_slected_tweets	Selected posts	Posts selectionnés	Posts seleccionados	Επιλεγμένα posts
 twittersna_result_url_in_tweets	Urls in posts	Urls dans les posts	Urls en posts	Urls στα posts
 twittersna_result_go_to	Go to url	Ouvrir le lien	Ir a la pagina	Μετάβαση στη διεύθυνση url
-twittersna_result_go_to_tweet	Go to post	Ouvrir le post	Ir a post	Μετάβαση στο post
+twittersna_result_go_to_tweet	Go to Instagram	Ouvrir le Instagram	Ir a Instagram	Μετάβαση στο Instagram
 twittersna_result_download_png	Download as PNG	Télécharger en tant que PNG	Descargar como PNG	Λήψη ως PNG
 twittersna_result_download_svg	Download as SVG	Télécharger en tant que SVG	Descargar como SVG	Λήψη ως SVG
 twittersna_result_word	Word	Mot	Palabra	Λέξη
@@ -91,3 +91,8 @@ twittersna_nb_followers	Number of followers	Nombre d'abonnés	Número de abonado
 disable_cache	Disable cache	Désactiver le cache	Desactivar el caché	απενεργοποίηση προσωρινής μνήμης
 twittersna_invalid_credentials	Invalid authentication information	Les informations d'authentification ne sont pas valables	La información de autenticación no es válida	Μη έγκυρη πληροφόρηση αυθεντικοποίησης
 twittersna_start	Loading	Chargement	Cargando	Φόρτωση
+csv_sna_publications	Publications	Publications	Publicaciones	δημοσιεύσεις
+csv_sna_total_interactions	Total interactions	Total des interactions	Interacciones totales	Σύνολο αλληλεπιδράσεων
+csv_sna_likes	Likes	Likes	Likes	Likes
+csv_sna_comments	Comments	Commentaires	Comentarios	Σχόλια
+csv_sna_shares	Shares	Shares	Shares	Shares
