@@ -1,98 +1,98 @@
-	en	fr	es	el
-twitterStatsErrorMessage	Please fill the required fields (＊)	Veuillez remplir les champs requis (＊)	Rellene los campos requeridos (＊)	Παρακαλώ συμπληρώστε τα απαιτούμενα πεδία (＊)
-twitter_sna_title	Instagram CSV analysis	Analyse Instagram CSV	El análisis Instagram CSV	Ανάλυση Instagram CSV
-twitter_sna_search	Keyword, URL or #	Mot clé, URL ou #	Palabra clave, URL o #	Λέξη-κλειδί, διεύθυνση URL ή #
-twitter_sna_not	Words to exclude in the query	Mots à exclure de la requête	Palabras a excluir en la consulta	Λέξεις για εξαίρεση στο ερώτημα
-twitter_sna_user	Posted by (Instagram account name)	Publié par (nom de compte Instagram)	Publicado por (nombre de la cuenta de Instagram)	Αναρτήθηκε από (όνομα του λογαριασμού Instagram)
-twitter_sna_from_date	Since	Depuis	Desde	Από
-twitter_sna_until_date	Until	Jusqu'à	Hasta	Εως
-twitter_local_time	Local time	Heure locale	Hora local	Τοπική ώρα
-twitter_sna_gmt	GMT	GMT	GMT	GMT
-twitter_sna_media	Filters :	Filtres :	Filtros :	Φιλτρα:
-twitterStats_media_none	none	aucune	ninguna	κανένα
-twitterStats_media_images	pictures	images	fotos	εικόνες
-twitterStats_media_videos	videos	vidéos	vídeo	βίντεο
-twitterStats_media_medias	media	média	medios de comunicación	μεσο ΜΑΖΙΚΗΣ ΕΝΗΜΕΡΩΣΗΣ
-twitterStats_media_both	both	les deux	ambos	και τα δύο
-twitter_sna_verified	Verified users Only :	Utilisateurs verifiés uniquement :	Usuarios verificados únicamente :	Μόνο επαληθευμένοι χρήστες:
-twitterStats_verified_no	no	non	no	ναι
-twitterStats_verified_yes	yes	oui	si	οχι
-lang_choices	Language :	Langue :	Lengua :	Γλώσσα:
-lang_all	none	aucun	ninguno	κανένα
-lang_fr	French	Français	Francés	Γαλλικά
-lang_en	English	Anglais	Inglés	Αγγλικά
-lang_es	Spanish	Espagnol	Español	Ισπανικά
-lang_ar	Arabic	Arabe	Árabe	Αράβικα
-lang_de	German	Allemand	Alemán	Γερμανικά
-lang_it	Italian	Italien	Italiano	Ιταλικά
-lang_id	Indonesian	Indonésien	Indonesio	Ινδονησιακά
-lang_pt	Portuguese	Portugais	Portugués	Πορτογαλικά
-lang_ko	Korean	Coréen	Coreano	Κορεάτικα
-lang_tr	Turkish	Turc	Turco	Τούρκικα
-lang_ru	Russian	Russe	Ruso	Ρώσικα
-lang_nl	Dutch	Néerlandais	Holandés	Ολλανδικά
-lang_hi	Hindi	Indou	Hindú	Χίντι
-lang_no	Norwegian	Norvégien	Noruego	Νορβηγικά
-lang_sv	Swedish	Suédois	Sueco	Σουηδικά
-lang_fi	Finnish	Finlandais	Finlandés	Φινλανδικά
-lang_da	Danish	Danois	Danés	Δανικά
-lang_pl	Polish	Polonais	Polaco	Πολωνικά
-lang_hu	Hungarian	Hongrois	Húngaro	Ούγγρικα
-lang_fa	Farsi	Persan	Farsi	Φαρσί
-lang_he	Hebrew	Hébreu	Hebreo	Εβραϊκά
-lang_ur	Urdu	Ourdou	Urdu	Ουρντού
-lang_th	Thai	Thaï	Tailandés	Ταϊλανδέζικα
-button_submit	Submit	Envoyer	Enviar	Υποβολή
-default_sna_error	Instagram analysis failed due to an unknown cause.	L'analyse de Instagram a été interrompue pour une raison inconnue.	El análisis de Instagram se ha interrumpido por una causa desconocida.	Η ανάλυση του Instagram απέτυχε λόγω άγνωστης αιτίας.
-twitterSnaErrorMessage	An error occurred while processing posts	Une erreur est survenue lors du traitement de messages	Se ha producido un error durante el procesamiento de mensajes	Ένα σφάλμα κατά την επεξεργασία των μηνυμάτων
-top_users_pie_chart_title	Most active users	Utilisateurs les plus actifs	Usuarios más activos	Πιο ενεργοί χρήστες
-mention_cloud_chart_title	Most mentioned accounts	Compte les plus mentionnés	Usuarios más mencionados	Λογαριασμοί που έχουν αναφερθεί πιο πολύ
-user_time_chart_title	Propagation timeline	Frise chronologique de propagation	Línea de tiempo de propagación	Χρονοδιάγραμμα διάδοσης
-hashtag_graph_title	Most associated hashtags	Hashtags les plus associés	Hashtags más Asociados	Πιο σχετικά hashtag
-retweets_cloud_chart_title	Most shared users	Utilisateurs les plus partagés	Usuarios más compartidos	Οι περισσότεροι από κοινού οι χρήστες
-likes_cloud_chart_title	Most liked users	Utilisateurs les plus likés	La mayoría de los usuarios gustado	Χρήστες που εχουν γίνεi περισσότερο like
-top_words_cloud_chart_title	Most used words in posts	La plupart des mots utilisés dans les messages	La mayoría de las palabras usadas en los mensajes	Οι περισσότεροι που χρησιμοποιούνται λέξεις δημοσιεύσεις
-tweetCounter_title	Logistics	Logistique	logística	Επιμελητεία
-sosem_graph_title	Socio-semantic graph (hashtags and mentioned users)	Graphe socio-sémantique (hashtags et utilisateurs mentionnés)	Grafo socio-semantico (hashtags y usuarios mencionados)	Κοινωνικο-σημασιολογικό γράφημα (hashtag και αναφερόμενοι χρήστες)
-sosem_4mode_graph_title	Socio-semantic graph (hashtags, URLs, mentions)	Graphe socio-sémantique (hashtags, URLs, mentions, RTs avec commentaire, réponses)	Grafo socio-semantico (hashtags, URLs, mencionados, RTs con comentarios, respuestas)	Κοινωνικο σημασιολογικό γράφημα (hashtag, URLs, αναφορές, RT με σχόλιο, απαντήσεις)
-account_creation_date_chart_title	Count of account creation date chart	Graphique des créations de compte	Gráfico de fechas de creación de cuentas	Διάγραμμα των ημερομηνιών δημιουργίας λογαριασμών
-bubble_chart_title	Bubble chart of top 100 most active accounts	Graphique des 100 comptes les plus actifs	Gráfico de las 100 cuentas más activas	Διάγραμμα φυσαλίδων με τους 100 πιο ενεργούς λογαριασμούς
-user_graph_title	User accounts graph	Graphe de comptes utilisateurs	Grafo de cuentas de usuarios	ράφημα λογαριασμών χρηστών
-export_graph_title	Export Interaction graph (gexf format)	Exporter un graphe des interactions au format Gexf	Exportar el grafo de interacciones en formato Gexf	Εξαγωγή γραφήματος αλληλεπίδρασης (μορφή gexf)
-heatmap_chart_title	Heatmap of posts distribution	Heatmap de distribution de messages	Heatmap de la distribución de mensajes	Θερμικός χάρτης της διανομής των δημοσιεύσεων
-elastic_url	URL	URL	URL	Σύνδεσμος
-elastic_count	Number	Nombre	Candidad	Αριθμός
-twittersna_result_username	Username	Nom d'utilisateur	Nombre de usuario	Όνομα χρήστη
-twittersna_result_date	Date	Date	Fecha	Ημερομηνία
-twittersna_result_tweet	Post description	Description du message	Descripción de la publicación	περιγραφή δημοσίευσης
-twittersna_result_retweet_nb	Shares	Shares	Shares	Shares
-twittersna_result_like_nb	Likes	Likes	Likes	Likes
-twittersna_result_hide	Hide	Fermer	Ocultar	Απόκρυψη
-twittersna_result_download	Download	Télécharger	Descargar	Λήψη
-twittersna_result_slected_tweets	Selected posts	Posts selectionnés	Posts seleccionados	Επιλεγμένα posts
-twittersna_result_url_in_tweets	Urls in posts	Urls dans les posts	Urls en posts	Urls στα posts
-twittersna_result_go_to	Go to url	Ouvrir le lien	Ir a la pagina	Μετάβαση στη διεύθυνση url
-twittersna_result_go_to_tweet	Go to Link	Ouvrir le Link	Ir a Link	Μετάβαση στο Link
-twittersna_result_download_png	Download as PNG	Télécharger en tant que PNG	Descargar como PNG	Λήψη ως PNG
-twittersna_result_download_svg	Download as SVG	Télécharger en tant que SVG	Descargar como SVG	Λήψη ως SVG
-twittersna_result_word	Word	Mot	Palabra	Λέξη
-twittersna_result_nb_occ	Number of occurrences	Nombre d'occurrences	Cantidad de ocurrencias	Αριθμός εμφανίσεων
-twittersna_result_entity	Named entity	Entité nommée	Entidad nombrada	Ονομαζόμενη οντότητα
-twittersna_no_data	No data available	Aucune donnée disponible	Datos no disponibles	Δεν υπάρχουν διαθέσιμα δεδομένα
-user_placeholder	user	utilisateur	usuario	χρήστης
-twittersna_counting_words	Counting Words	Comptage des mots	Contando palabras	Μέτρηση λέξεων
-twittersna_fetching_tweets	Fetching posts	Récupération des posts	Recuperando posts	Λήψη posts
-twittersna_building_graphs	Building graphs	Construction des graphes	Construyendo el gráfico	Δημιουργία γραφημάτων
-twittersna_result_submit_twitter_sna	Submit to Instagram SNA	Envoyer à Instagram SNA	Enviar a Instagram SNA	Υποβολή στο Instagram SNA
-twittersna_result_view_graph	View graph	Voir le graphe	Ver el grafo	Προβολή γραφήματος
-twittersna_no_community	No community detected	Pas de communauté détectée	No se encontro comunidad	Δεν εντοπίστηκε κοινότητα
-twittersna_acd	Account Creation Date	Date de création du compte	Fecha de creación de la cuenta	Ημερομηνία δημιουργίας λογαριασμού
-twittersna_nb_followers	Number of followers	Nombre d'abonnés	Número de abonados	Αριθμός ακολούθων
-disable_cache	Disable cache	Désactiver le cache	Desactivar el caché	απενεργοποίηση προσωρινής μνήμης
-twittersna_invalid_credentials	Invalid authentication information	Les informations d'authentification ne sont pas valables	La información de autenticación no es válida	Μη έγκυρη πληροφόρηση αυθεντικοποίησης
-twittersna_start	Loading	Chargement	Cargando	Φόρτωση
-csv_sna_publications	Publications	Publications	Publicaciones	δημοσιεύσεις
-csv_sna_total_interactions	Total interactions	Total des interactions	Interacciones totales	Σύνολο αλληλεπιδράσεων
-csv_sna_likes	Likes	Likes	Likes	Likes
-csv_sna_comments	Comments	Commentaires	Comentarios	Σχόλια
-csv_sna_shares	Shares	Shares	Shares	Shares
+	en	fr	es	el	ro
+twitterStatsErrorMessage	Please fill the required fields (＊)	Veuillez remplir les champs requis (＊)	Rellene los campos requeridos (＊)	Παρακαλώ συμπληρώστε τα απαιτούμενα πεδία (＊)	Vă rugăm să completați câmpurile obligatorii (*)
+twitter_sna_title	Instagram CSV analysis	Analyse Instagram CSV	El análisis Instagram CSV	Ανάλυση Instagram CSV	Analiza Instagram CSV
+twitter_sna_search	Keyword, URL or #	Mot clé, URL ou #	Palabra clave, URL o #	Λέξη-κλειδί, διεύθυνση URL ή #	Cuvinte cheie, URL-ul sau #
+twitter_sna_not	Words to exclude in the query	Mots à exclure de la requête	Palabras a excluir en la consulta	Λέξεις για εξαίρεση στο ερώτημα	Cuvinte de exclus in interogare
+twitter_sna_user	Posted by (Instagram account name)	Publié par (nom de compte Instagram)	Publicado por (nombre de la cuenta de Instagram)	Αναρτήθηκε από (όνομα του λογαριασμού Instagram)	Postat de (Instagram nume de cont)
+twitter_sna_from_date	Since	Depuis	Desde	Από	De cand
+twitter_sna_until_date	Until	Jusqu'à	Hasta	Εως	Pana cand
+twitter_local_time	Local time	Heure locale	Hora local	Τοπική ώρα	Ora locala
+twitter_sna_gmt	GMT	GMT	GMT	GMT	GMT
+twitter_sna_media	Filters :	Filtres :	Filtros :	Φιλτρα:	Filtre:
+twitterStats_media_none	none	aucune	ninguna	κανένα	nici unul
+twitterStats_media_images	pictures	images	fotos	εικόνες	poze
+twitterStats_media_videos	videos	vidéos	vídeo	βίντεο	Videoclipuri
+twitterStats_media_medias	media	média	medios de comunicación	μεσο ΜΑΖΙΚΗΣ ΕΝΗΜΕΡΩΣΗΣ	mass-media
+twitterStats_media_both	both	les deux	ambos	και τα δύο	ambii
+twitter_sna_verified	Verified users Only :	Utilisateurs verifiés uniquement :	Usuarios verificados únicamente :	Μόνο επαληθευμένοι χρήστες:	Doar utilizatorii verificati
+twitterStats_verified_no	no	non	no	ναι	Nu
+twitterStats_verified_yes	yes	oui	si	οχι	da
+lang_choices	Language :	Langue :	Lengua :	Γλώσσα:	Limba :
+lang_all	none	aucun	ninguno	κανένα	nici unul
+lang_fr	French	Français	Francés	Γαλλικά	franceză
+lang_en	English	Anglais	Inglés	Αγγλικά	Engleză
+lang_es	Spanish	Espagnol	Español	Ισπανικά	Spaniolă
+lang_ar	Arabic	Arabe	Árabe	Αράβικα	arabă
+lang_de	German	Allemand	Alemán	Γερμανικά	germană
+lang_it	Italian	Italien	Italiano	Ιταλικά	Italiană
+lang_id	Indonesian	Indonésien	Indonesio	Ινδονησιακά	indoneziană
+lang_pt	Portuguese	Portugais	Portugués	Πορτογαλικά	portugheză
+lang_ko	Korean	Coréen	Coreano	Κορεάτικα	coreeană
+lang_tr	Turkish	Turc	Turco	Τούρκικα	turcă
+lang_ru	Russian	Russe	Ruso	Ρώσικα	Rusă
+lang_nl	Dutch	Néerlandais	Holandés	Ολλανδικά	olandeză
+lang_hi	Hindi	Indou	Hindú	Χίντι	hindi
+lang_no	Norwegian	Norvégien	Noruego	Νορβηγικά	norvegiană
+lang_sv	Swedish	Suédois	Sueco	Σουηδικά	suedeză
+lang_fi	Finnish	Finlandais	Finlandés	Φινλανδικά	finlandeză
+lang_da	Danish	Danois	Danés	Δανικά	daneză
+lang_pl	Polish	Polonais	Polaco	Πολωνικά	poloneză
+lang_hu	Hungarian	Hongrois	Húngaro	Ούγγρικα	maghiară
+lang_fa	Farsi	Persan	Farsi	Φαρσί	farsi
+lang_he	Hebrew	Hébreu	Hebreo	Εβραϊκά	ebraică
+lang_ur	Urdu	Ourdou	Urdu	Ουρντού	urdu
+lang_th	Thai	Thaï	Tailandés	Ταϊλανδέζικα	thailandeză
+button_submit	Submit	Envoyer	Enviar	Υποβολή	Trimite
+default_sna_error	Instagram analysis failed due to an unknown cause.	L'analyse de Instagram a été interrompue pour une raison inconnue.	El análisis de Instagram se ha interrumpido por una causa desconocida.	Η ανάλυση του Instagram απέτυχε λόγω άγνωστης αιτίας.	Analiza Instagram a eșuat din cauza unei cauze necunoscute.
+twitterSnaErrorMessage	An error occurred while processing posts	Une erreur est survenue lors du traitement de messages	Se ha producido un error durante el procesamiento de mensajes	Ένα σφάλμα κατά την επεξεργασία των μηνυμάτων	A apărut o eroare în timpul procesării mesajelor
+top_users_pie_chart_title	Most active users	Utilisateurs les plus actifs	Usuarios más activos	Πιο ενεργοί χρήστες	Cei mai mulți utilizatori activi
+mention_cloud_chart_title	Most mentioned accounts	Compte les plus mentionnés	Usuarios más mencionados	Λογαριασμοί που έχουν αναφερθεί πιο πολύ	Cele mai multe conturi menționate mai sus
+user_time_chart_title	Propagation timeline	Frise chronologique de propagation	Línea de tiempo de propagación	Χρονοδιάγραμμα διάδοσης	cronologie de propagare
+hashtag_graph_title	Most associated hashtags	Hashtags les plus associés	Hashtags más Asociados	Πιο σχετικά hashtag	Cele mai multe hashtagurile asociate
+retweets_cloud_chart_title	Most shared users	Utilisateurs les plus partagés	Usuarios más compartidos	Οι περισσότεροι από κοινού οι χρήστες	Userii cu cele mai multe share-uri
+likes_cloud_chart_title	Most liked users	Utilisateurs les plus likés	La mayoría de los usuarios gustado	Χρήστες που εχουν γίνεi περισσότερο like	Utilizatorii cu cele mai multe like-uri
+top_words_cloud_chart_title	Most used words in posts	La plupart des mots utilisés dans les messages	La mayoría de las palabras usadas en los mensajes	Οι περισσότεροι που χρησιμοποιούνται λέξεις δημοσιεύσεις	Cele mai multe cuvinte utilizate în posturi
+tweetCounter_title	Logistics	Logistique	logística	Επιμελητεία	Logistică
+sosem_graph_title	Socio-semantic graph (hashtags and mentioned users)	Graphe socio-sémantique (hashtags et utilisateurs mentionnés)	Grafo socio-semantico (hashtags y usuarios mencionados)	Κοινωνικο-σημασιολογικό γράφημα (hashtag και αναφερόμενοι χρήστες)	Graficul socio-semantică (hashtag și utilizatori menționați)
+sosem_4mode_graph_title	Socio-semantic graph (hashtags, URLs, mentions)	Graphe socio-sémantique (hashtags, URLs, mentions, RTs avec commentaire, réponses)	Grafo socio-semantico (hashtags, URLs, mencionados, RTs con comentarios, respuestas)	Κοινωνικο σημασιολογικό γράφημα (hashtag, URLs, αναφορές, RT με σχόλιο, απαντήσεις)	Graficul socio-semantică (hashtag, URL-uri, menționează)
+account_creation_date_chart_title	Count of account creation date chart	Graphique des créations de compte	Gráfico de fechas de creación de cuentas	Διάγραμμα των ημερομηνιών δημιουργίας λογαριασμών	Data crearii contului
+bubble_chart_title	Bubble chart of top 100 most active accounts	Graphique des 100 comptes les plus actifs	Gráfico de las 100 cuentas más activas	Διάγραμμα φυσαλίδων με τους 100 πιο ενεργούς λογαριασμούς	Diagramă cu bule de top 100 cele mai multe conturi active
+user_graph_title	User accounts graph	Graphe de comptes utilisateurs	Grafo de cuentas de usuarios	ράφημα λογαριασμών χρηστών	Graficul cu conturi de utilizatori
+export_graph_title	Export Interaction graph (gexf format)	Exporter un graphe des interactions au format Gexf	Exportar el grafo de interacciones en formato Gexf	Εξαγωγή γραφήματος αλληλεπίδρασης (μορφή gexf)	grafic de interacțiune Export (format gexf)
+heatmap_chart_title	Heatmap of posts distribution	Heatmap de distribution de messages	Heatmap de la distribución de mensajes	Θερμικός χάρτης της διανομής των δημοσιεύσεων	Heatmap de distribuție de posturi
+elastic_url	URL	URL	URL	Σύνδεσμος	URL-
+elastic_count	Number	Nombre	Candidad	Αριθμός	Număr
+twittersna_result_username	Username	Nom d'utilisateur	Nombre de usuario	Όνομα χρήστη	Nume de utilizator
+twittersna_result_date	Date	Date	Fecha	Ημερομηνία	Data
+twittersna_result_tweet	Post description	Description du message	Descripción de la publicación	περιγραφή δημοσίευσης	descriere post
+twittersna_result_retweet_nb	Shares	Shares	Shares	Shares	Acțiuni
+twittersna_result_like_nb	Likes	Likes	Likes	Likes	like-uri
+twittersna_result_hide	Hide	Fermer	Ocultar	Απόκρυψη	Ascunde
+twittersna_result_download	Download	Télécharger	Descargar	Λήψη	Descarca
+twittersna_result_slected_tweets	Selected posts	Posts selectionnés	Posts seleccionados	Επιλεγμένα posts	posturi selectate
+twittersna_result_url_in_tweets	Urls in posts	Urls dans les posts	Urls en posts	Urls στα posts	Urls în posturi
+twittersna_result_go_to	Go to url	Ouvrir le lien	Ir a la pagina	Μετάβαση στη διεύθυνση url	Du-te la URL
+twittersna_result_go_to_tweet	Go to Link	Ouvrir le Link	Ir a Link	Μετάβαση στο Link	Du-te la link
+twittersna_result_download_png	Download as PNG	Télécharger en tant que PNG	Descargar como PNG	Λήψη ως PNG	Descărcați ca PNG
+twittersna_result_download_svg	Download as SVG	Télécharger en tant que SVG	Descargar como SVG	Λήψη ως SVG	Descărcați ca SVG
+twittersna_result_word	Word	Mot	Palabra	Λέξη	Cuvânt
+twittersna_result_nb_occ	Number of occurrences	Nombre d'occurrences	Cantidad de ocurrencias	Αριθμός εμφανίσεων	Numărul de apariții
+twittersna_result_entity	Named entity	Entité nommée	Entidad nombrada	Ονομαζόμενη οντότητα	Entitate numita
+twittersna_no_data	No data available	Aucune donnée disponible	Datos no disponibles	Δεν υπάρχουν διαθέσιμα δεδομένα	Nici o informatie disponibila
+user_placeholder	user	utilisateur	usuario	χρήστης	utilizator
+twittersna_counting_words	Counting Words	Comptage des mots	Contando palabras	Μέτρηση λέξεων	Numararea cuvintelor
+twittersna_fetching_tweets	Fetching posts	Récupération des posts	Recuperando posts	Λήψη posts	preluarea postarilor
+twittersna_building_graphs	Building graphs	Construction des graphes	Construyendo el gráfico	Δημιουργία γραφημάτων	construirea graficelor
+twittersna_result_submit_twitter_sna	Submit to Instagram SNA	Envoyer à Instagram SNA	Enviar a Instagram SNA	Υποβολή στο Instagram SNA	Trimite la Instagram SNA
+twittersna_result_view_graph	View graph	Voir le graphe	Ver el grafo	Προβολή γραφήματος	Vezi graficul
+twittersna_no_community	No community detected	Pas de communauté détectée	No se encontro comunidad	Δεν εντοπίστηκε κοινότητα	Nici o comunitate detectată
+twittersna_acd	Account Creation Date	Date de création du compte	Fecha de creación de la cuenta	Ημερομηνία δημιουργίας λογαριασμού	Data crearii contului
+twittersna_nb_followers	Number of followers	Nombre d'abonnés	Número de abonados	Αριθμός ακολούθων	Numar de followeri
+disable_cache	Disable cache	Désactiver le cache	Desactivar el caché	απενεργοποίηση προσωρινής μνήμης	Dezactiveaza cache-ul
+twittersna_invalid_credentials	Invalid authentication information	Les informations d'authentification ne sont pas valables	La información de autenticación no es válida	Μη έγκυρη πληροφόρηση αυθεντικοποίησης	Informatii de autentificare invalide
+twittersna_start	Loading	Chargement	Cargando	Φόρτωση	Se încarcă
+csv_sna_publications	Publications	Publications	Publicaciones	δημοσιεύσεις	Publicații
+csv_sna_total_interactions	Total interactions	Total des interactions	Interacciones totales	Σύνολο αλληλεπιδράσεων	Număr total de interacțiuni
+csv_sna_likes	Likes	Likes	Likes	Likes	like-uri
+csv_sna_comments	Comments	Commentaires	Comentarios	Σχόλια	Comentarii
+csv_sna_shares	Shares	Shares	Shares	Shares	Share-uri
