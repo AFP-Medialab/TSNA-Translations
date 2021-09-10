@@ -54,7 +54,7 @@ likes_cloud_chart_title	Most liked users	Utilisateurs les plus likés	La mayorí
 top_words_cloud_chart_title	Most used words in posts	La plupart des mots utilisés dans les messages	La mayoría de las palabras usadas en los mensajes	Οι περισσότεροι που χρησιμοποιούνται λέξεις δημοσιεύσεις
 tweetCounter_title	Logistics	Logistique	logística	Επιμελητεία
 sosem_graph_title	Socio-semantic graph (hashtags and mentioned users)	Graphe socio-sémantique (hashtags et utilisateurs mentionnés)	Grafo socio-semantico (hashtags y usuarios mencionados)	Κοινωνικο-σημασιολογικό γράφημα (hashtag και αναφερόμενοι χρήστες)
-sosem_4mode_graph_title	Socio-semantic graph (hashtags, URLs, mentions, RTs with comment, replies)	Graphe socio-sémantique (hashtags, URLs, mentions, RTs avec commentaire, réponses)	Grafo socio-semantico (hashtags, URLs, mencionados, RTs con comentarios, respuestas)	Κοινωνικο σημασιολογικό γράφημα (hashtag, URLs, αναφορές, RT με σχόλιο, απαντήσεις)
+sosem_4mode_graph_title	Socio-semantic graph (hashtags, URLs, mentions)	Graphe socio-sémantique (hashtags, URLs, mentions, RTs avec commentaire, réponses)	Grafo socio-semantico (hashtags, URLs, mencionados, RTs con comentarios, respuestas)	Κοινωνικο σημασιολογικό γράφημα (hashtag, URLs, αναφορές, RT με σχόλιο, απαντήσεις)
 account_creation_date_chart_title	Count of account creation date chart	Graphique des créations de compte	Gráfico de fechas de creación de cuentas	Διάγραμμα των ημερομηνιών δημιουργίας λογαριασμών
 bubble_chart_title	Bubble chart of top 100 most active accounts	Graphique des 100 comptes les plus actifs	Gráfico de las 100 cuentas más activas	Διάγραμμα φυσαλίδων με τους 100 πιο ενεργούς λογαριασμούς
 user_graph_title	User accounts graph	Graphe de comptes utilisateurs	Grafo de cuentas de usuarios	ράφημα λογαριασμών χρηστών
@@ -64,15 +64,15 @@ elastic_url	URL	URL	URL	Σύνδεσμος
 elastic_count	Number	Nombre	Candidad	Αριθμός
 twittersna_result_username	Username	Nom d'utilisateur	Nombre de usuario	Όνομα χρήστη
 twittersna_result_date	Date	Date	Fecha	Ημερομηνία
-twittersna_result_tweet	Post	Post	Post	Post
-twittersna_result_retweet_nb	Number of shares	Nombre de shares	Candidad de shares	Αριθμός shares
-twittersna_result_like_nb	Like number	Nombre de likes	Candidad de likes	Αριθμός likes
+twittersna_result_tweet	Post description	Description du message	Descripción de la publicación	περιγραφή δημοσίευσης
+twittersna_result_retweet_nb	Shares	Shares	Shares	Shares
+twittersna_result_like_nb	Likes	Likes	Likes	Likes
 twittersna_result_hide	Hide	Fermer	Ocultar	Απόκρυψη
 twittersna_result_download	Download	Télécharger	Descargar	Λήψη
 twittersna_result_slected_tweets	Selected posts	Posts selectionnés	Posts seleccionados	Επιλεγμένα posts
 twittersna_result_url_in_tweets	Urls in posts	Urls dans les posts	Urls en posts	Urls στα posts
 twittersna_result_go_to	Go to url	Ouvrir le lien	Ir a la pagina	Μετάβαση στη διεύθυνση url
-twittersna_result_go_to_tweet	Go to Facebook	Ouvrir le Facebook	Ir a Facebook	Μετάβαση στο Facebook
+twittersna_result_go_to_tweet	Go to Link	Ouvrir le Link	Ir a Link	Μετάβαση στο Link
 twittersna_result_download_png	Download as PNG	Télécharger en tant que PNG	Descargar como PNG	Λήψη ως PNG
 twittersna_result_download_svg	Download as SVG	Télécharger en tant que SVG	Descargar como SVG	Λήψη ως SVG
 twittersna_result_word	Word	Mot	Palabra	Λέξη
