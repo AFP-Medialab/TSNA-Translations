@@ -1,4 +1,7 @@
 	en	fr	es	el
+cardheader_ct_parameters	CSV SNA.	CSV SNA.	CSV SNA.	CSV SNA.
+navbar_ct_sna_description	It performs social network analysis from Crowdtangle export	Fournit un outil d'analyse de réseau social à partir d'export de Crowdtangle 	Provee una herramiento de análisis de redes sociales de Crowdtangle	Η ανάλυση των κοινωνικών δικτύων στο Crowdtangle (διαθέσιμο κατά την εγγραφή)	
+navbar_ct_sna	Facebook & Instagram CSV analysis	Analyse CSV Facebook et Instagram	Análisis CSV de Facebook e Instagram	Ανάλυση CSV Facebook & Instagram
 sna_time_chart_title	Propagation timeline	Frise chronologique de propagation	Línea de tiempo de propagación	Χρονοδιάγραμμα διάδοσης
 sna_local_time	Local time	Heure locale	Hora local	Τοπική ώρα
 shared_cloud_chart_title	Most shared users	Utilisateurs les plus partagés	Usuarios más compartidos	Οι περισσότεροι από κοινού οι χρήστες

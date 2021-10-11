@@ -1,4 +1,6 @@
 	en	fr	es	el
+navbar_twitter_sna	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter SNA.
+navbar_twitter_sna_description	It performs social network analysis on Twitter (available on registration)	Fournit un outil d'analyse de réseau social sur Twitter (sur enregistrement) 	Provee una herramiento de análisis de redes sociales en Twitter (disponible con registro)	Η ανάλυση των κοινωνικών δικτύων στο Twitter (διαθέσιμο κατά την εγγραφή)
 twitterStatsErrorMessage	Please fill the required fields (＊)	Veuillez remplir les champs requis (＊)	Rellene los campos requeridos (＊)	Παρακαλώ συμπληρώστε τα απαιτούμενα πεδία (＊)
 twitter_sna_title	Twitter Social network analysis (beta)	Analyse des réseaux sociaux sur Twitter (beta)	Twitter Análisis de redes sociales (beta)	Ανάλυση κοινωνικού δικτύου Twitter (beta)
 twitter_sna_search	Keyword, URL or #	Mot clé, URL ou #	Palabra clave, URL o #	Λέξη-κλειδί, διεύθυνση URL ή #
