@@ -33,8 +33,7 @@ ct_hashtag_graph_title	Most associated hashtags	Hashtags les plus associés	Hash
 ct_heatmap_chart_title	Heatmap of posts distribution	Heatmap de distribution de messages	Heatmap de la distribución de mensajes	Θερμικός χάρτης της διανομής των δημοσιεύσεων
 ct_sosem_4mode_graph_title	Socio-semantic graph (hashtags, URLs, mentions)	Graphe socio-sémantique (hashtags, URLs, mentions, RTs avec commentaire, réponses)	Grafo socio-semantico (hashtags, URLs, mencionados, RTs con comentarios, respuestas)	Κοινωνικο σημασιολογικό γράφημα (hashtag, URLs, αναφορές, RT με σχόλιο, απαντήσεις)
 ct_sna_result_url_in_posts	Urls in posts	Urls dans les posts	Urls en posts	Urls στα posts
-ct_sna_result_submit_insta_sna	Submit to Instagram SNA	Envoyer à Instagram SNA	Enviar a Instagram SNA	Υποβολή στο Instagram SNA
-ct_sna_result_submit_fb_sna	Submit to Facebook SNA	Envoyer à Facebook SNA	Enviar a Facebook SNA	Υποβολή στο Facebook SNA
+twittersna_result_submit_twitter_sna	Submit to Twitter SNA	Envoyer à Twitter SNA	Enviar a Twitter SNA	Υποβολή στο Twitter SNA
 ct_top_words_cloud_chart_title	Most used words in posts	La plupart des mots utilisés dans les messages	La mayoría de las palabras usadas en los mensajes	Οι περισσότεροι που χρησιμοποιούνται λέξεις δημοσιεύσεις
 ct_url	URL	URL	URL	Σύνδεσμος
 sna_credibility	Credibility	Crédibilité	Credibilidad	Αξιοπιστία
