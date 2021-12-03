@@ -1,6 +1,6 @@
 	en	fr	es	el
 navbar_twitter_sna	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter SNA.
-navbar_twitter_sna_description	It performs social network analysis on Twitter (available on registration)	Fournit un outil d'analyse de réseau social sur Twitter (sur enregistrement) 	Provee una herramiento de análisis de redes sociales en Twitter (disponible con registro)	Η ανάλυση των κοινωνικών δικτύων στο Twitter (διαθέσιμο κατά την εγγραφή)
+navbar_twitter_sna_description	It performs social network analysis on Twitter (available on registration)	"Fournit un outil d'analyse de réseau social sur Twitter (sur enregistrement) "	Provee una herramiento de análisis de redes sociales en Twitter (disponible con registro)	Η ανάλυση των κοινωνικών δικτύων στο Twitter (διαθέσιμο κατά την εγγραφή)
 twitterStatsErrorMessage	Please fill the required fields (＊)	Veuillez remplir les champs requis (＊)	Rellene los campos requeridos (＊)	Παρακαλώ συμπληρώστε τα απαιτούμενα πεδία (＊)
 twitter_sna_search	Keyword, URL or #	Mot clé, URL ou #	Palabra clave, URL o #	Λέξη-κλειδί, διεύθυνση URL ή #
 twitter_sna_not	Words to exclude in the search	Mots à exclure de la requête	Palabras a excluir en la consulta	Λέξεις για εξαίρεση στο ερώτημα
@@ -54,7 +54,7 @@ hashtag_graph_title	Most associated hashtags	Hashtags les plus associés	Hashtag
 retweets_cloud_chart_title	Most retweeted users	Utilisateurs les plus retweetés	Usuarios más retweeteados	Χρήστες που έχουν γίνει περισσότερο retweet
 likes_cloud_chart_title	Most liked users	Utilisateurs les plus likés	Usuarios con más likes	Χρήστες που εχουν γίνεi περισσότερο like
 top_words_cloud_chart_title	Most used words in tweets	Mots les plus utilisés dans les tweets	Palabras más utilizadas en tweets	Λέξεις που χρησιμοποιήθηκαν πιο πολύ στα tweets
-tweetCounter_title	Tweets number	Nombre de tweets	Número de Tweet	Αριθμος tweets
+tweetCounter_title	Tweets number	Nombre de tweets	Número de Tweets	Αριθμος tweets
 sosem_graph_title	Socio-semantic graph (hashtags and mentioned users)	Graphe socio-sémantique (hashtags et utilisateurs mentionnés)	Grafo socio-semantico (hashtags y usuarios mencionados)	Κοινωνικο-σημασιολογικό γράφημα (hashtag και αναφερόμενοι χρήστες)
 sosem_4mode_graph_title	Socio-semantic graph (hashtags, URLs, mentions, quoted RTs, unedited RTs, replies)	Graphe socio-sémantique (hashtags, URLs, mentions, RTs, RTs avec commentaire, réponses)	Grafo socio-semantico (hashtags, URLs, mencionados, RTs, RTs con comentarios, respuestas)	Κοινωνικο σημασιολογικό γράφημα (hashtag, URLs, αναφορές, RT, RT με σχόλιο, απαντήσεις)
 bubble_chart_title	Bubble chart of top 100 most active users	Graphique des 100 comptes les plus actifs	Gráfico de las 100 cuentas más activas	Διάγραμμα φυσαλίδων με τους 100 πιο ενεργούς λογαριασμούς
@@ -71,7 +71,7 @@ twittersna_result_like_nb	Like number	Nombre de likes	Candidad de ''me gusta''	�
 twittersna_result_hide	Hide	Fermer	Ocultar	Απόκρυψη
 twittersna_result_download	Download	Télécharger	Descargar	Λήψη
 twittersna_result_slected_tweets	Selected Tweets	Tweets selectionnés	Tweets seleccionados	Επιλεγμένα Tweets
-sna_result_selected_posts 	Selected Tweets	Tweets selectionnés	Tweets seleccionados	Επιλεγμένα Tweets
+"sna_result_selected_posts "	Selected Tweets	Tweets selectionnés	Tweets seleccionados	Επιλεγμένα Tweets
 twittersna_result_url_in_tweets	URLs in tweets	URLs dans les tweets	URLs en tweets	URLs στα tweets
 twittersna_result_go_to	Go to url	Ouvrir le lien	Ir a la pagina	Μετάβαση στη διεύθυνση url
 twittersna_result_go_to_tweet	Go to tweet	Ouvrir le tweet	Ir a tweet	Μετάβαση στο tweet
@@ -103,7 +103,7 @@ explanation_account	Specify the twitter account whose tweets are going to be ana
 explanation_verified	Specify if you only want to analyze tweets of verified accounts	Renseigner si vous voulez uniquement analyser les comptes vérifiés	Especifique si solo desea analizar tweets de cuentas verificadas	Καθορίστε εάν θέλετε μόνο να αναλύσετε τα tweets των επαληθευμένων λογαριασμών
 explanation_media	Specify the media elements that you want to analyze	Renseigner les éléments média que vous voulez analyser	Especifique los elementos de medios que desea analizar.	Καθορίστε τα στοιχεία πολυμέσων που θέλετε να αναλύσετε
 explanation_cache	Specify if you want to ignore the caché of the server and process the search as a new one	Renseigner si vous voulez ignorer le cache du server et relancer la requête	Especifique si desea ignorar el Caché del servidor y procese la búsqueda como una nueva	Καθορίστε εάν θέλετε να αγνοήσετε την Caché του διακομιστή και να επεξεργαστείτε την αναζήτηση ως ένα νέο
-twittersna_searchparameters	Search parameters			Παράμετροι αναζήτησης
+twittersna_searchparameters	Search parameters	Paramètres de recherche	Parámetros de búsqueda	Παράμετροι αναζήτησης
 twittersna_title_timezone	Time zone of the dates	Fuseau horaire des dates	Zona horaria	Ζώνη ώρας των ημερομηνιών
 twittersna_title_optional	Optional parameters	Paramètres optionnels	Parámetros opcionales	Προαιρετικές παράμετροι
 twittersna_title_words	Words	Mots	Palabras	Λόγια
