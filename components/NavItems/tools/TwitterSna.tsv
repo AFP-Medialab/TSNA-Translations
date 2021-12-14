@@ -120,3 +120,9 @@ interaction_graph_export	Export	Exporter	Exportar	Εξαγωγή
 interaction_graph_open_subtitle	Open in Graph Analysis	Ouvrir dans l'analyse de graphes	Abrir en análisis de grafos	Ανοίξτε την ανάλυση γραφημάτων
 interaction_graph_export_subtitle	gexf format	format GEXF	format GEXF	μορφή gexf
 twitter_sna_index	Index	Index	Indice	Δείκτης
+twittersna_title_time	Time			
+twittersna_title_elements	Search elements			
+explanation_allelements	All the elements in this field must appear in the search results			
+explanation_anyelements	At least one of the elements of this field must appear in the search results			
+twittersna_field_all	All the elements			
+twittersna_field_any	Any of the elements			
