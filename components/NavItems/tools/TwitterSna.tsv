@@ -47,20 +47,20 @@ lang_th	Thai	Thaï	Tailandés	Ταϊλανδέζικα
 button_submit	Submit	Envoyer	Enviar	Υποβολή
 default_sna_error	Twitter analysis failed due to an unknown cause.	L'analyse de Twitter a été interrompue pour une raison inconnue.	El análisis de Twitter se ha interrumpido por una causa desconocida.	Η ανάλυση του Twitter απέτυχε λόγω άγνωστης αιτίας.
 twitterSnaErrorMessage	An error occurred while processing tweets	Une erreur s'est produite lors du traitement des tweets	Se produjo un error en el procesamiento de tweets	Παρουσιάστηκε σφάλμα κατά την επεξεργασία των tweets
-top_users_pie_chart_title	Most active users	Utilisateurs les plus actifs	Usuarios más activos	Πιο ενεργοί χρήστες
-mention_cloud_chart_title	Most mentioned users	Compte les plus mentionnés	Usuarios más mencionados	Λογαριασμοί που έχουν αναφερθεί πιο πολύ
-user_time_chart_title	Propagation timeline	Frise chronologique de propagation	Línea de tiempo de propagación	Χρονοδιάγραμμα διάδοσης
-hashtag_graph_title	Most associated hashtags	Hashtags les plus associés	Hashtags más Asociados	Πιο σχετικά hashtag
-retweets_cloud_chart_title	Most retweeted users	Utilisateurs les plus retweetés	Usuarios más retweeteados	Χρήστες που έχουν γίνει περισσότερο retweet
-likes_cloud_chart_title	Most liked users	Utilisateurs les plus likés	Usuarios con más likes	Χρήστες που εχουν γίνεi περισσότερο like
-top_words_cloud_chart_title	Most used words in tweets	Mots les plus utilisés dans les tweets	Palabras más utilizadas en tweets	Λέξεις που χρησιμοποιήθηκαν πιο πολύ στα tweets
-tweetCounter_title	Tweets number	Nombre de tweets	Número de Tweets	Αριθμος tweets
+top_users_pie_chart_title	5. Most active users	5. Utilisateurs les plus actifs	5. Usuarios más activos	5. Πιο ενεργοί χρήστες
+mention_cloud_chart_title	6. Most mentioned users	6. Compte les plus mentionnés	6. Usuarios más mencionados	6. Λογαριασμοί που έχουν αναφερθεί πιο πολύ
+user_time_chart_title	2. Propagation timeline	2. Frise chronologique de propagation	2. Línea de tiempo de propagación	2. Χρονοδιάγραμμα διάδοσης
+hashtag_graph_title	9. Most associated hashtags	9. Hashtags les plus associés	9. Hashtags más Asociados	9. Πιο σχετικά hashtag
+retweets_cloud_chart_title	3. Most retweeted users	3. Utilisateurs les plus retweetés	3. Usuarios más retweeteados	3. Χρήστες που έχουν γίνει περισσότερο retweet
+likes_cloud_chart_title	4. Most liked users	4. Utilisateurs les plus likés	4. Usuarios con más likes	4. Χρήστες που εχουν γίνεi περισσότερο like
+top_words_cloud_chart_title	11. Most used words in tweets	Mots les plus utilisés dans les tweets	11. Palabras más utilizadas en tweets	11. Λέξεις που χρησιμοποιήθηκαν πιο πολύ στα tweets
+tweetCounter_title	1. Tweets number	1. Nombre de tweets	1. Número de Tweets	1.  Αριθμος tweets
 sosem_graph_title	Socio-semantic graph (hashtags and mentioned users)	Graphe socio-sémantique (hashtags et utilisateurs mentionnés)	Grafo socio-semantico (hashtags y usuarios mencionados)	Κοινωνικο-σημασιολογικό γράφημα (hashtag και αναφερόμενοι χρήστες)
-sosem_4mode_graph_title	Socio-semantic graph (hashtags, URLs, mentions, quoted RTs, unedited RTs, replies)	Graphe socio-sémantique (hashtags, URLs, mentions, RTs, RTs avec commentaire, réponses)	Grafo socio-semantico (hashtags, URLs, mencionados, RTs, RTs con comentarios, respuestas)	Κοινωνικο σημασιολογικό γράφημα (hashtag, URLs, αναφορές, RT, RT με σχόλιο, απαντήσεις)
-bubble_chart_title	Bubble chart of top 100 most active users	Graphique des 100 comptes les plus actifs	Gráfico de las 100 cuentas más activas	Διάγραμμα φυσαλίδων με τους 100 πιο ενεργούς λογαριασμούς
+sosem_4mode_graph_title	10. Socio-semantic graph (hashtags, URLs, mentions, quoted RTs, unedited RTs, replies)	10. Graphe socio-sémantique (hashtags, URLs, mentions, RTs, RTs avec commentaire, réponses)	10. Grafo socio-semantico (hashtags, URLs, mencionados, RTs, RTs con comentarios, respuestas)	10. Κοινωνικο σημασιολογικό γράφημα (hashtag, URLs, αναφορές, RT, RT με σχόλιο, απαντήσεις)
+bubble_chart_title	7. Bubble chart of top 100 most active users	7. Graphique des 100 comptes les plus actifs	7. Gráfico de las 100 cuentas más activas	7. Διάγραμμα φυσαλίδων με τους 100 πιο ενεργούς λογαριασμούς
 user_graph_title	User accounts graph	Graphe de comptes utilisateurs	Grafo de cuentas de usuarios	ράφημα λογαριασμών χρηστών
-export_graph_title	Interaction graph	Graphe des interactions	Grafo de interacciones	Διάγραμμα αλληλεπίδρασης
-heatmap_chart_title	Heatmap of tweets distribution	Cartographie d'activité	Mapa de actividad	Heatmap της διανομής των tweets
+export_graph_title	12. Interaction graph	12. Graphe des interactions	12. Grafo de interacciones	12. Διάγραμμα αλληλεπίδρασης
+heatmap_chart_title	8. Heatmap of tweets distribution	8. Cartographie d'activité	8. Mapa de actividad	8. Heatmap της διανομής των tweets
 elastic_url	Url	Url	Url	Σύνδεσμος
 elastic_count	Number	Nombre	Candidad	Αριθμός
 twittersna_result_username	Username	Nom d'utilisateur	Nombre de usuario	Όνομα χρήστη
@@ -72,7 +72,7 @@ twittersna_result_hide	Hide	Fermer	Ocultar	Απόκρυψη
 twittersna_result_download	Download	Télécharger	Descargar	Λήψη
 twittersna_result_slected_tweets	Selected Tweets	Tweets selectionnés	Tweets seleccionados	Επιλεγμένα Tweets
 "sna_result_selected_posts "	Selected Tweets	Tweets selectionnés	Tweets seleccionados	Επιλεγμένα Tweets
-twittersna_result_url_in_tweets	URLs in tweets	URLs dans les tweets	URLs en tweets	URLs στα tweets
+twittersna_result_url_in_tweets	13. URLs in tweets	13. URLs dans les tweets	URLs en tweets	URLs στα tweets
 twittersna_result_go_to	Go to url	Ouvrir le lien	Ir a la pagina	Μετάβαση στη διεύθυνση url
 twittersna_result_go_to_tweet	Go to tweet	Ouvrir le tweet	Ir a tweet	Μετάβαση στο tweet
 twittersna_result_download_png	Download as PNG	Télécharger en tant que PNG	Descargar como PNG	Λήψη ως PNG
