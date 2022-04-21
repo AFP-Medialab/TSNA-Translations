@@ -1,11 +1,12 @@
-	en	fr	es	el
-sna_time_chart_title	Propagation timeline	Frise chronologique de propagation	Línea de tiempo de propagación	Χρονοδιάγραμμα διάδοσης
-sna_local_time	Local time	Heure locale	Hora local	Τοπική ώρα
-shared_cloud_chart_title	Most shared users	Utilisateurs les plus partagés	Usuarios más compartidos	Οι περισσότεροι από κοινού οι χρήστες
-likes_cloud_chart_title	Most liked users	Utilisateurs les plus likés	La mayoría de los usuarios gustado	Χρήστες που εχουν γίνεi περισσότερο like
-top_users_pie_chart_title	Most active users	Utilisateurs les plus actifs	Usuarios más activos	Πιο ενεργοί χρήστες
-mention_cloud_chart_title	Most mentioned accounts	Compte les plus mentionnés	Usuarios más mencionados	Λογαριασμοί που έχουν αναφερθεί πιο πολύ
-sna_result_hide	Hide	Fermer	Ocultar	Απόκρυψη
-sna_result_download	Download	Télécharger	Descargar	Λήψη
-ct_sna_title	Facebook & Instagram CSV analysis	Analyse CSV Facebook et Instagram	Análisis CSV de Facebook e Instagram	Ανάλυση CSV Facebook & Instagram
-twitter_sna_title	Twitter Social network analysis (beta)	Analyse des réseaux sociaux sur Twitter (beta)	Twitter Análisis de redes sociales (beta)	Ανάλυση κοινωνικού δικτύου Twitter (beta)
+	en	fr	es	el	it
+sna_time_chart_title	Propagation timeline	Frise chronologique de propagation	Línea de tiempo de propagación	Χρονοδιάγραμμα διάδοσης	Timeline della propagazione
+sna_local_time	Local time	Heure locale	Hora local	Τοπική ώρα	Ora locale
+shared_cloud_chart_title	Most shared users	Utilisateurs les plus partagés	Usuarios más compartidos	Οι περισσότεροι από κοινού οι χρήστες	Utenti più condivisi
+likes_cloud_chart_title	Most liked users	Utilisateurs les plus likés	La mayoría de los usuarios gustado	Χρήστες που εχουν γίνεi περισσότερο like	Gli utenti più piatti
+top_users_pie_chart_title	Most active users	Utilisateurs les plus actifs	Usuarios más activos	Πιο ενεργοί χρήστες	Utenti più attivi
+mention_cloud_chart_title	Most mentioned accounts	Compte les plus mentionnés	Usuarios más mencionados	Λογαριασμοί που έχουν αναφερθεί πιο πολύ	Conti più menzionati
+sna_result_hide	Hide	Fermer	Ocultar	Απόκρυψη	Nascondere
+sna_result_download	Download	Télécharger	Descargar	Λήψη	Scarica
+ct_sna_title	Facebook & Instagram CSV analysis	Analyse CSV Facebook et Instagram	Análisis CSV de Facebook e Instagram	Ανάλυση CSV Facebook & Instagram	Analisi di Facebook e Instagram CSV
+twitter_sna_title	Twitter Social network analysis (beta)	Analyse des réseaux sociaux sur Twitter (beta)	Twitter Análisis de redes sociales (beta)	Ανάλυση κοινωνικού δικτύου Twitter (beta)	Twitter Analisi di social network (beta)
+sna_result_selected_posts	Selected Tweets	Tweets selectionnés	Tweets seleccionados	Επιλεγμένα Tweets	Tweet selezionati

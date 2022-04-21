@@ -1,13 +1,13 @@
-	en	fr	es	el
-tweet_bot	Tweet with WeVerify bot	Tweeter avec le bot WeVerify	Tweet con Weverify Bot	Tweet με Weverify Bot
-tweet_account	Tweet with your account	Tweeter avec votre compte	Tweet con su cuenta	Tweet με το λογαριασμό σας
-title_infotmationLink	Link information	Information de lien	Información de enlace	Πληροφορίες σύνδεσης
-title_selectedLink	Selected link	Lien sélectionné	Enlace seleccionado	Επιλεγμένος σύνδεσμος
-title_author	Author	Auteur	Autor	Συγγραφέας
-title_name	Name	Nom	Nombre	Ονομα
-title_credibility	Credibility	Crédibilité	Credibilidad	Αξιοπιστία
-desinformation	Desinformation	Désinformation	Desinformación	Desinformation
-factchecker	Fact Checker	Factchecker	Corrector de datos	Ελέγχου
-title_description	Description	Description	Descripción	Περιγραφή
-textTweet_1	There's a lot of misinformation on	Il y a beaucoup de désinformation sur	Hay mucha desinformación en	Υπάρχει μεγάλη παραπληροφόρηση
-textTweet_2	, checkout alternative reading :	, consultez ces sources alternatives : 	, consulte estas fuentes alternativas:	, Έλεγχος εναλλακτικής ανάγνωσης:
+	en	fr	es	el	it
+tweet_bot	Tweet with WeVerify bot	Tweeter avec le bot WeVerify	Tweet con Weverify Bot	Tweet με Weverify Bot	Tweet con bot weverify
+tweet_account	Tweet with your account	Tweeter avec votre compte	Tweet con su cuenta	Tweet με το λογαριασμό σας	Tweet con il tuo account
+title_infotmationLink	Link information	Information de lien	Información de enlace	Πληροφορίες σύνδεσης	Informazione sul link
+title_selectedLink	Selected link	Lien sélectionné	Enlace seleccionado	Επιλεγμένος σύνδεσμος	Link selezionato
+title_author	Author	Auteur	Autor	Συγγραφέας	Autore
+title_name	Name	Nom	Nombre	Ονομα	Nome
+title_credibility	Credibility	Crédibilité	Credibilidad	Αξιοπιστία	Credibilità
+desinformation	Desinformation	Désinformation	Desinformación	Desinformation	Desinformazione
+factchecker	Fact Checker	Factchecker	Corrector de datos	Ελέγχου	Factchecker
+title_description	Description	Description	Descripción	Περιγραφή	Descrizione
+textTweet_1	There's a lot of misinformation on 	Il y a beaucoup de désinformation sur 	Hay mucha desinformación en 	Υπάρχει μεγάλη παραπληροφόρηση 	C'è molta desinformazione su
+textTweet_2	, checkout alternative reading :	, consultez ces sources alternatives : 	, consulte estas fuentes alternativas:	, Έλεγχος εναλλακτικής ανάγνωσης:	, Checkout Lettura alternativa:
