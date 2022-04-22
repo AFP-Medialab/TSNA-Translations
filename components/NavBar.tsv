@@ -1,4 +1,5 @@
-	en	fr	es	el
+	en	fr	es	el	it
+navbar_headline	Verification tools	Outils de verification	Herramientas de verificaton 	εργαλεία ελέγχου	Strumenti di verifica
 navbar_tools	Tools	Outils	Herramientas	Εργαλεία
 navbar_about	About	A propos	Sobre nosotros	Σχετικά με
 navbar_tuto	Tutorial	Tutoriel	Guía	Οδηγός
@@ -37,6 +38,6 @@ navbar_deepfake_video	Deepfake	Deepfake	Deepfake	Deepfake
 navbar_category_general	General	Général	General	Γενικά
 navbar_category_video	Video	Vidéo	Video	βίντεο
 navbar_category_image	Image	Image	Imagen	Εικόνα
-navbar_category_search	Search	Recherche	Busqueda	Αναζήτηση
-navbar_category_data	Data analysis	Analyse des données	Análisis de datos	Ανάλυση δεδομένων
+navbar_category_search	Search	Recherche	Busqueda	Αναζήτηση	Ricerca
+navbar_category_data	Data analysis	Analyse des données	Análisis de datos	Ανάλυση δεδομένων Analisi dei dati
 navbar_collapse	Hide	Masquer	Ocultar	Απόκρυψη
