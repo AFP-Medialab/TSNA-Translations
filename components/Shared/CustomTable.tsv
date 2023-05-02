@@ -1,12 +1,12 @@
-	en	fr	es	el	it
-first_page	First Page	Première page	Primera página	Πρώτη σελίδα	Prima pagina
-previous_page	Previous Page	Page précédente	Página anterior	Προηγούμενη σελίδα	Pagina precedente
-next_page	Next Page	Page suivante	siguiente página	Επόμενη σελίδα	Pagina successiva
-last_page	Last Page	Dernière page	Ùltima página	Τελευταία σελίδα	Ultima pagina
-from_to_text	{from}-{to} of {count}	{from}-{to} de {count}	{from}-{to} de {count}	{Από} - {έως} του {αριθμός}	{da} - {a} di {count}
-row_selected	{0} row(s) selected	{0} ligne(s) selectionée(s)	{0} fila(s) seleccionada(s)	{0} σειρά (ες) που επιλέγεται	{0} riga (s) selezionata
-search	Search	Rechercher	Buscar	Αναζήτηση	Ricerca
-no_records	No records to display	Rien à afficher	Nada que mostrar	Δεν υπάρχουν αρχεία για προβολή	Nessun dato da visualizzare
-filter	Filter	Filtre	Filtro	Φίλτρο	Filtro
-credibility_desinfo_title	Credibility	Crédibilité	Credibilidad	Αξιοπιστία	Credibilità
-credibility_fct_title	Fact Checker	Fact Checker	Verificador de hechos	Ελεγκτής γεγονότων	Fact-checker
+	en	fr	es	el	it	ar
+first_page	First Page	Première page	Primera página	Πρώτη σελίδα	Prima pagina	الصفحة الأولى
+previous_page	Previous Page	Page précédente	Página anterior	Προηγούμενη σελίδα	Pagina precedente	الصفحة السابقة
+next_page	Next Page	Page suivante	siguiente página	Επόμενη σελίδα	Pagina successiva	الصفحة المقبلة
+last_page	Last Page	Dernière page	Ùltima página	Τελευταία σελίδα	Ultima pagina	الصفحة الأخيرم
+from_to_text	{from}-{to} of {count}	{from}-{to} de {count}	{from}-{to} de {count}	{Από} - {έως} του {αριθμός}	{da} - {a} di {count}	{from} - {to} من {count}
+row_selected	{0} row(s) selected	{0} ligne(s) selectionée(s)	{0} fila(s) seleccionada(s)	{0} σειρά (ες) που επιλέγεται	{0} riga (s) selezionata	تم تحديد {0} صف (صفوف)
+search	Search	Rechercher	Buscar	Αναζήτηση	Ricerca	بحث
+no_records	No records to display	Rien à afficher	Nada que mostrar	Δεν υπάρχουν αρχεία για προβολή	Nessun dato da visualizzare	لا سجلات لعرضها 
+filter	Filter	Filtre	Filtro	Φίλτρο	Filtro	فلتر
+credibility_desinfo_title	Credibility	Crédibilité	Credibilidad	Αξιοπιστία	Credibilità	مصداقية
+credibility_fct_title	Fact Checker	Fact Checker	Verificador de hechos	Ελεγκτής γεγονότων	Fact-checker	مدقق معلومات

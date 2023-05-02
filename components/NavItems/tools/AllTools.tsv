@@ -1,13 +1,13 @@
-	en	fr	es	el	it
-navbar_tools	Tools	Outils	Herramientas	Εργαλεία	Utensili
-navbar_twitter_sna	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter SNA.
-navbar_twitter_sna_description	It performs social network analysis on Twitter (available on registration)	Fournit un outil d'analyse de réseau social sur Twitter (sur enregistrement)	Provee una herramiento de análisis de redes sociales en Twitter (disponible con registro)	Η ανάλυση των κοινωνικών δικτύων στο Twitter (διαθέσιμο κατά την εγγραφή)	Esegue l'analisi dei social network su Twitter (disponibile sulla registrazione)
-navbar_csv_sna	CSV SNA.	CSV SNA.	CSV SNA.	CSV SNA.	CSV SNA.
-navbar_csv_sna_description	It performs social network analysis from Crowdtangle export	Fournit un outil d'analyse de réseau social à partir d'export de Crowdtangle	Provee una herramiento de análisis de redes sociales de Crowdtangle	Η ανάλυση των κοινωνικών δικτύων στο Crowdtangle (διαθέσιμο κατά την εγγραφή)	Esegue l'analisi dei social network da crowdtangle export
-navbar_factcheck	Factchecks	Factchecks	Factchecks	Ελέγχοι	Factchecks
-navbar_factcheck_description	 It provides a customised search engine of Factchecks.	Un moteur de recherche personnalisé pour retrouver des factchecks.	Un motor personalizado de búsqueda de chequeos. 	Μια προσαρμοσμένη μηχανή αναζήτησης σε ένταξη και debunks.	Un motore di ricerca personalizzato per trovare factchecks
-navbar_xnetwork	XNetwork	XNetwork	XNetwork	XNetwork	XNetwork
-navbar_xnetwork_description	It provides a customised search engine for cross-network queries. 	Un moteur de recherche personnalisé pour les requêtes transversales entre plusieurs réseaux.	Un motor de búsqueda personalizado para consultas entre redes.	Μια προσαρμοσμένη μηχανή αναζήτησης για ερωτήματα cross-δίκτυο.	Un motore di ricerca personalizzato per interrogazioni su più reti
-close	Close	Fermer	Cerrar	Κλείσιμο	Vicino
-category_data	Data analysis	Analyse des données	Análisis de datos	Ανάλυση δεδομένων	Analisi dei dati
-category_search	Search	Recherche	Busqueda	Αναζήτηση	Ricerca
+	en	fr	es	el	it	ar
+navbar_tools	Tools	Outils	Herramientas	Εργαλεία	Utensili	أدوات
+navbar_twitter_sna	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter SNA.	Twitter SNA.	تويتر SNA
+navbar_twitter_sna_description	It performs social network analysis on Twitter (available on registration)	Fournit un outil d'analyse de réseau social sur Twitter (sur enregistrement)	Provee una herramiento de análisis de redes sociales en Twitter (disponible con registro)	Η ανάλυση των κοινωνικών δικτύων στο Twitter (διαθέσιμο κατά την εγγραφή)	Esegue l'analisi dei social network su Twitter (disponibile sulla registrazione)	يقوم بإجراء تحليل للشبكات الاجتماعية على تويتر (متاح عند التسجيل) 
+navbar_csv_sna	CSV SNA.	CSV SNA.	CSV SNA.	CSV SNA.	CSV SNA.	CSV SNA.
+navbar_csv_sna_description	It performs social network analysis from Crowdtangle export	Fournit un outil d'analyse de réseau social à partir d'export de Crowdtangle	Provee una herramiento de análisis de redes sociales de Crowdtangle	Η ανάλυση των κοινωνικών δικτύων στο Crowdtangle (διαθέσιμο κατά την εγγραφή)	Esegue l'analisi dei social network da crowdtangle export	يقوم بتحليل الشبكة الاجتماعية من تصدير Crowdtangle
+navbar_factcheck	Factchecks	Factchecks	Factchecks	Ελέγχοι	Factchecks	المواد التي تم تدقيقها
+navbar_factcheck_description	It provides a customised search engine of Factchecks.	Un moteur de recherche personnalisé pour retrouver des factchecks.	Un motor personalizado de búsqueda de chequeos.	Μια προσαρμοσμένη μηχανή αναζήτησης σε ένταξη και debunks.	Un motore di ricerca personalizzato per trovare factchecks	يوفر محرك بحث مخصصاً للمواد التي تم تدقيقها 
+navbar_xnetwork	XNetwork	XNetwork	XNetwork	XNetwork	XNetwork	XNetwork
+navbar_xnetwork_description	It provides a customised search engine for cross-network queries.	Un moteur de recherche personnalisé pour les requêtes transversales entre plusieurs réseaux.	Un motor de búsqueda personalizado para consultas entre redes.	Μια προσαρμοσμένη μηχανή αναζήτησης για ερωτήματα cross-δίκτυο.	Un motore di ricerca personalizzato per interrogazioni su più reti	يوفر محرك بحث مخصصاً للاستعلامات عبر الشبكة. 
+close	Close	Fermer	Cerrar	Κλείσιμο	Vicino	إغلاق
+category_data	Data analysis	Analyse des données	Análisis de datos	Ανάλυση δεδομένων	Analisi dei dati	تحليل البيانات
+category_search	Search	Recherche	Busqueda	Αναζήτηση	Ricerca	بحث
